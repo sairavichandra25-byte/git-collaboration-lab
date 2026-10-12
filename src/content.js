@@ -1,3 +1,2 @@
-// Change this text on your feature branch to demonstrate a tracked change.
 document.getElementById("welcome-text").textContent =
-  "This sample website demonstrates how a team can collaborate using Git branches and GitHub pull requests.";
+  "Our team uses Git branches and pull requests to develop, review, and merge project changes safely.";
